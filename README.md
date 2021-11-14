@@ -13,5 +13,5 @@ release on nov 18th\
 this is sample text\
 소ㅑㄴ ㅑㄴ ㄴ므ㅔㅣㄷ ㅅㄷㅌㅅ\
 \
-with shortcut (ctrl+shift+d)\
+with a shortcut (ctrl+shift+d)\
 converts text written on current line
