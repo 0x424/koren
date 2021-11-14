@@ -10,3 +10,5 @@ release on nov 18th\
 다 = ek\
 라 = fk\
 \
+this is sample text\
+소ㅑㄴ ㅑㄴ ㄴ므ㅔㅣㄷ ㅅㄷㅌㅅ
