@@ -11,4 +11,7 @@ release on nov 18th\
 라 = fk\
 \
 this is sample text\
-소ㅑㄴ ㅑㄴ ㄴ므ㅔㅣㄷ ㅅㄷㅌㅅ
+소ㅑㄴ ㅑㄴ ㄴ므ㅔㅣㄷ ㅅㄷㅌㅅ\
+\
+with shortcut (ctrl+shift+d)\
+converts text written on current line
