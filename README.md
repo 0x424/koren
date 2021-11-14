@@ -10,7 +10,7 @@ release on nov 18th\
 다 = ek\
 라 = fk\
 \
-this is sample text\
+this is a sample text\
 소ㅑㄴ ㅑㄴ ㄴ므ㅔㅣㄷ ㅅㄷㅌㅅ\
 \
 with a shortcut (ctrl+shift+d)\
